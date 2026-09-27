@@ -82,8 +82,14 @@ java Main
 ### Inserción de productos
 ![Inserción](imagenes/captura2.png)
 
+### Validación de ID repetido
+![ID repetido](imagenes/captura3.png)
+
+### Inventario ordenado (recorrido inorden)
+![Inventario](imagenes/captura4.png)
+
 ### Búsqueda de productos
-![Búsqueda](imagenes/captura3.png)
+![Búsqueda](imagenes/captura5.png)
 
 ## 6. Video de sustentación
 
