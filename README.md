@@ -93,7 +93,7 @@ java Main
 
 ## 6. Video de sustentación
 
-[Ver video]()
+[Ver video](https://www.youtube.com/watch?v=y-W5p-wG5QU)
 
 ## 7. Autores
 
@@ -101,6 +101,6 @@ java Main
 
 ## 8. Control de versiones
 
-Este repositorio refleja al menos 3 commits por integrante, evidenciando el
+Este repositorio refleja al menos 5 commits, evidenciando el
 avance incremental del desarrollo (nodo `Producto`, lógica del árbol, menú
 interactivo y documentación).
